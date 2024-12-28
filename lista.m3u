@@ -77,7 +77,6 @@ https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 channel-id="660bfc4424e1d000085b5f93" tvg-id="660bfc4424e1d000085b5f93" tvg-chno="545" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG.png" group-title="PlutoTV", FIFA+
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
-
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="Canali Sport Italiani",Rai Sport + Hd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
@@ -118,6 +117,39 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali RAI",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/piterpan-tv.png" group-title="Canali musicali (Web Radio)",PiterPan TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-birikina-tv.png" group-title="Canali musicali (Web Radio)",Radio Birikina TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bruno-tv.png" group-title="Canali musicali (Web Radio)",Radio Bruno TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/1station-tv.png" group-title="Canali musicali (Web Radio)",1Station TV 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream9.xdevel.com/video0s975854-1225/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bellla-e-monella-tv.png" group-title="Canali musicali (Web Radio)",Bellla e Monella TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cmc.png" group-title="Canali musicali (Web Radio)",CMC
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciccio-riccio-tv.jpg" group-title="Canali musicali (Web Radio)",Ciccio Riccio Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/company-tv.png" group-title="Canali musicali (Web Radio)",Company TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dj-channel-tv.png" group-title="Canali musicali (Web Radio)",DJ Channel Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cp1.server89.com:19360/djchanneltv/djchanneltv.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euro-indie-music-chart-eimc.png" group-title="Canali musicali (Web Radio)",Euro Indie Music Chart (E.I.M.C.)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fm-italia-tv.png" group-title="Canali musicali (Web Radio)",FM Italia TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 1 
 https://tivusto.org/sh/raiplay1
