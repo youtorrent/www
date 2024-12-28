@@ -112,6 +112,5 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1 test
-
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
