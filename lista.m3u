@@ -32,6 +32,21 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super.png" group-title="Canali per Bambini/Ragazzi",Super !
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
+#EXTINF:-1 channel-id="61b86ea479a4390007c6d5fc" tvg-id="61b86ea479a4390007c6d5fc" tvg-chno="900" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="PlutoTV", Euronews
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+#EXTINF:-1 channel-id="660bfc4424e1d000085b5f93" tvg-id="660bfc4424e1d000085b5f93" tvg-chno="545" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG.png" group-title="PlutoTV", FIFA+
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
+#EXTINF:-1 channel-id="ITBD1100002WX" tvg-id="ITBD1100002WX" tvg-chno="4563" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20241022T051609SQUARE.png" group-title="Samsung Channels", FRANCE 24 FAST
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/sam-ITBD1100002WX.m3u8
+#EXTINF:-1 channel-id="ITBD4400003JF" tvg-id="ITBD4400003JF" tvg-chno="4798" tvg-name="Frisbee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400003JF_20241022T051619SQUARE.png" group-title="Samsung Channels", Frisbee
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/sam-ITBD4400003JF.m3u8
+#EXTINF:-1 channel-id="ITBD440000698" tvg-id="ITBD440000698" tvg-chno="4800" tvg-name="K2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD440000698_20241022T051642SQUARE.png" group-title="Samsung Channels", K2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/sam-ITBD440000698.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Canali RAI",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
