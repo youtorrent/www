@@ -64,6 +64,27 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-extra-pinz1jwpnlj3.png" group-title="Canali Mediaset",Mediaset Extra 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-news-24-j6ydz0f2z08i.png" group-title="News e Canali Istituzionali",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/senato-tv.png" group-title="News e Canali Istituzionali",Senato Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://senato-live.morescreens.com/SENATO_1_001/1080p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tg-com-24.link" group-title="News e Canali Istituzionali",TG COM 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-calabria.png" group-title="News e Canali Istituzionali",TGR Calabria
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://odmsto.com/returned/668460.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-lazio.png" group-title="News e Canali Istituzionali",TGR Lazio
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://odmsto.com/returned/668665.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-norba-tg-norba-24.png" group-title="News e Canali Istituzionali",Tele Norba (TG Norba 24 )
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png" group-title="News e Canali Istituzionali",Tgcom24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Canali Mediaset",Top Crime 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
