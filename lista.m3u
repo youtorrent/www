@@ -17,12 +17,27 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Canali Mediaset",Italia 1 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" group-title="Canali Sport Italiani",Radio Bianconera Tv (Juventus - R.B.N.)
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-tv.png" group-title="Canali musicali (Web Radio)",Radio Italia Tv
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-deejay-tv.jpg" group-title="Canali musicali (Web Radio)",Radio Deejay Tv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",m2o TV (1080p)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" group-title="Canali Sport Italiani",Radio Bianconera Tv (Juventus - R.B.N.)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-anni-60.png" group-title="Canali musicali (Web Radio)",Radio Italia Anni 60
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/piterpan-tv.png" group-title="Canali musicali (Web Radio)",PiterPan TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-birikina-tv.png" group-title="Canali musicali (Web Radio)",Radio Birikina TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="710" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="PlutoTV", Yu-Gi-Oh!
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
@@ -146,12 +161,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali RAI",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/piterpan-tv.png" group-title="Canali musicali (Web Radio)",PiterPan TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-birikina-tv.png" group-title="Canali musicali (Web Radio)",Radio Birikina TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bruno-tv.png" group-title="Canali musicali (Web Radio)",Radio Bruno TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
