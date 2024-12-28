@@ -47,7 +47,8 @@ https://tivusto.org/sh/raiplay2
 https://tivusto.org/sh/raiplay3
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/27-twentyseven.jpg" group-title="Canali Mediaset",27 Twentyseven 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-5-3lle0v8ngp9r.png" group-title="Canali Mediaset",Canale 5 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-5-3lle0v8ngp9r.png" group-title="Canali Mediaset",Canale 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cine-34-n1ul1ub5ggdf.png" group-title="Canali Mediaset",Cine 34 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
